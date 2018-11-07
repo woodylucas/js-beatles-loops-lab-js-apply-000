@@ -20,4 +20,9 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles() {
   var love = [];
+  do {
+    
+  } while() {
+    
+  }
 }
