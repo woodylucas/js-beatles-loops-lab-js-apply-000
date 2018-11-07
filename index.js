@@ -18,13 +18,13 @@ function johnLennonFacts(array) {
   return lennonFacts;
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   var love = [];
   do {
     love.push('I love the Beatles!');
     num++
     
-  } while() {
+  } while(num < love.length) {
     
   }
 }
